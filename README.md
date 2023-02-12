@@ -4,9 +4,9 @@
 
 ![Laboratory](Images/Laboratory.jpg)
 
-This project contains data about a fictional pharmaceutical company that specialises in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+This project visualises data of a fictional pharmaceutical company that specialises in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
-As per the dataset, 249 mice identified with SCC tumour growth were treated through a variety of drug regimens. Over the course of 45 days, tumour development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. Here I generated all of the tables and figures needed for the technical report of the study, as well as a summary of the study results.
+As per the dataset, 249 mice identified with SCC tumour growth were treated through a variety of drug regimens. Over the course of 45 days, tumour development was observed and measured. The purpose of this study was to compare the performance of their drug of interest, Capomulin, versus the other treatment regimens. Here I generated all of the tables and figures needed for the technical report of the study, as well as a summary of the study results.
 
 ## Steps
 
